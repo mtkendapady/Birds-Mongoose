@@ -19,5 +19,8 @@
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "mongoose": "4.4.13"
+  },
+  "bugs": {
+    "url": "https://github.com/devmountain/mini-birds-mongoose/issues"
   }
 }
